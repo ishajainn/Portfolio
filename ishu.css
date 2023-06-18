@@ -1,0 +1,65 @@
+.ishu{
+    font-family: Dosis,Arial, sans-serif;
+    font-size: x-small;
+    color:whitesmoke;
+    background-color: black;
+    height: 100px;
+    display:flex;
+    justify-content: space-between ;
+
+}
+.ishu svg{
+    height:83px ;
+    padding-top: 20px;
+    margin-left: -24px;
+}
+
+.ishuu{
+    background-image: url("bgbanner.jpg");
+    height: 700px;
+    font-family: Dosis,Arial ,sans-serif;
+    color: white;
+    text-align: center;
+    padding-top: 50px;
+    font-size: 72px;
+    letter-spacing: 5px;
+    
+}
+.gabbu{
+    display: flex;
+    flex-direction: column;
+    row-gap: 60px;
+}
+.opop{
+    display: flex;
+    color: #ffffffb3;
+    padding-top: 45px;
+    column-gap: 30px;
+    padding-right: 30px;
+    letter-spacing: 3px;
+}
+.oops{
+    transform: rotate(-45deg);
+}
+.ishuuu{
+    font-family: Dosis,Arial ,sans-serif;
+}
+.gabbu1{
+    font-size:15px;
+}
+.butt{
+    display:flex;
+    flex-direction: column;
+   align-items: center; 
+   row-gap: 175px;
+}
+.butto{
+    background-color: whitesmoke;
+    color:black;
+    height: 48px;
+    width:250px;
+    font-size: medium;
+    letter-spacing: 3px;
+    border-radius: 4px;
+    
+}
